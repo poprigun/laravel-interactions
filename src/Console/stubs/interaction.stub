@@ -2,7 +2,7 @@
 
 namespace DummyNamespace;
 
-use bigdropinc\LaravelInteractions\Interaction;
+use poprigun\LaravelInteractions\Interaction;
 
 class DummyInteraction extends Interaction
 {

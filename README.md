@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require bigdropinc/laravel-interactions "~1.0.0"
+composer require poprigun/laravel-interactions "~1.0.0"
 ```
 
 or add
 
 ```
-"bigdropinc/laravel-interactions": "*"
+"poprigun/laravel-interactions": "*"
 ```
 
 to the require section of your `composer.json` file.

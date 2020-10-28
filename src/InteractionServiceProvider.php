@@ -1,13 +1,13 @@
 <?php
 
-namespace bigdropinc\LaravelInteractions;
+namespace poprigun\LaravelInteractions;
 
-use bigdropinc\LaravelInteractions\Console\InteractionMakeCommand;
+use poprigun\LaravelInteractions\Console\InteractionMakeCommand;
 use Illuminate\Support\ServiceProvider;
 
 /**
  * Class InteractionServiceProvider
- * @package bigdropinc\LaravelInteractions
+ * @package poprigun\LaravelInteractions
  */
 class InteractionServiceProvider extends ServiceProvider
 {

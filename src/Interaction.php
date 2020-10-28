@@ -1,6 +1,6 @@
 <?php
 
-namespace bigdropinc\LaravelInteractions;
+namespace poprigun\LaravelInteractions;
 
 
 use Illuminate\Support\Arr;

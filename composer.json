@@ -1,5 +1,5 @@
 {
-    "name": "bigdropinc/laravel-interactions",
+    "name": "poprigun/laravel-interactions",
     "description": "Laravel package for interactions.",
     "type": "library",
     "keywords": [
@@ -18,7 +18,7 @@
     "authors": [
         {
             "name": "Roman Olifir",
-            "email": "roman.o@bigdropinc.com"
+            "email": "popriguns@gmail.com"
         }
     ],
     "license": "BSD-3-Clause",

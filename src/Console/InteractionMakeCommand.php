@@ -1,6 +1,6 @@
 <?php
 
-namespace bigdropinc\LaravelInteractions\Console;
+namespace poprigun\LaravelInteractions\Console;
 
 use Illuminate\Console\GeneratorCommand;
 use Illuminate\Support\Str;
@@ -8,7 +8,7 @@ use Symfony\Component\Console\Input\InputArgument;
 
 /**
  * Class InteractionMakeCommand
- * @package bigdropinc\LaravelInteractions\Console
+ * @package poprigun\LaravelInteractions\Console
  */
 class InteractionMakeCommand extends GeneratorCommand
 {
